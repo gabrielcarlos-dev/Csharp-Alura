@@ -1,0 +1,7 @@
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\bin\Debug\calc-Investimento-longo-prazo.exe.config
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\bin\Debug\calc-Investimento-longo-prazo.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\bin\Debug\calc-Investimento-longo-prazo.pdb
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\obj\Debug\calc-Investimento-longo-prazo.csproj.AssemblyReference.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\obj\Debug\calc-Investimento-longo-prazo.csproj.CoreCompileInputs.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\obj\Debug\calc-Investimento-longo-prazo.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\calc-Investimento-longo-prazo\obj\Debug\calc-Investimento-longo-prazo.pdb

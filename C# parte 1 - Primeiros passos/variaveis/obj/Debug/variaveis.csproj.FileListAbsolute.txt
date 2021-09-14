@@ -1,0 +1,7 @@
+C:\Users\casel\source\repos\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\casel\source\repos\variaveis\bin\Debug\variaveis.exe
+C:\Users\casel\source\repos\variaveis\bin\Debug\variaveis.pdb
+C:\Users\casel\source\repos\variaveis\obj\Debug\variaveis.csproj.AssemblyReference.cache
+C:\Users\casel\source\repos\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\variaveis\obj\Debug\variaveis.exe
+C:\Users\casel\source\repos\variaveis\obj\Debug\variaveis.pdb

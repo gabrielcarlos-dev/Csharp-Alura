@@ -1,0 +1,6 @@
+C:\Users\casel\source\repos\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.exe.config
+C:\Users\casel\source\repos\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.exe
+C:\Users\casel\source\repos\VarPontoFlutuante\bin\Debug\VarPontoFlutuante.pdb
+C:\Users\casel\source\repos\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.exe
+C:\Users\casel\source\repos\VarPontoFlutuante\obj\Debug\VarPontoFlutuante.pdb

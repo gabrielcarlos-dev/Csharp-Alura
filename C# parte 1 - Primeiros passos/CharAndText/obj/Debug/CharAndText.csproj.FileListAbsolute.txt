@@ -1,0 +1,7 @@
+C:\Users\casel\source\repos\CharAndText\bin\Debug\CharAndText.exe.config
+C:\Users\casel\source\repos\CharAndText\bin\Debug\CharAndText.exe
+C:\Users\casel\source\repos\CharAndText\bin\Debug\CharAndText.pdb
+C:\Users\casel\source\repos\CharAndText\obj\Debug\CharAndText.csproj.AssemblyReference.cache
+C:\Users\casel\source\repos\CharAndText\obj\Debug\CharAndText.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\CharAndText\obj\Debug\CharAndText.exe
+C:\Users\casel\source\repos\CharAndText\obj\Debug\CharAndText.pdb

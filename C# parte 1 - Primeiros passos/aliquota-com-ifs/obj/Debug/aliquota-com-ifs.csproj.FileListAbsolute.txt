@@ -1,0 +1,7 @@
+C:\Users\casel\source\repos\aliquota-com-ifs\bin\Debug\aliquota-com-ifs.exe.config
+C:\Users\casel\source\repos\aliquota-com-ifs\bin\Debug\aliquota-com-ifs.exe
+C:\Users\casel\source\repos\aliquota-com-ifs\bin\Debug\aliquota-com-ifs.pdb
+C:\Users\casel\source\repos\aliquota-com-ifs\obj\Debug\aliquota-com-ifs.csproj.AssemblyReference.cache
+C:\Users\casel\source\repos\aliquota-com-ifs\obj\Debug\aliquota-com-ifs.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\aliquota-com-ifs\obj\Debug\aliquota-com-ifs.exe
+C:\Users\casel\source\repos\aliquota-com-ifs\obj\Debug\aliquota-com-ifs.pdb

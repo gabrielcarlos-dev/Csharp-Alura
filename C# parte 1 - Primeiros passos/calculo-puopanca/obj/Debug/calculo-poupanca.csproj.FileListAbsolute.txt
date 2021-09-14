@@ -1,0 +1,6 @@
+C:\Users\casel\source\repos\calculo-puopanca\bin\Debug\calculo-puopanca.exe.config
+C:\Users\casel\source\repos\calculo-puopanca\bin\Debug\calculo-puopanca.exe
+C:\Users\casel\source\repos\calculo-puopanca\bin\Debug\calculo-puopanca.pdb
+C:\Users\casel\source\repos\calculo-puopanca\obj\Debug\calculo-poupanca.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\calculo-puopanca\obj\Debug\calculo-puopanca.exe
+C:\Users\casel\source\repos\calculo-puopanca\obj\Debug\calculo-puopanca.pdb

@@ -1,0 +1,7 @@
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\bin\Debug\projeto-13.exe.config
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\bin\Debug\projeto-13.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\bin\Debug\projeto-13.pdb
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\obj\Debug\projeto-13.csproj.AssemblyReference.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\obj\Debug\projeto-13.csproj.CoreCompileInputs.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\obj\Debug\projeto-13.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\projeto-13\obj\Debug\projeto-13.pdb

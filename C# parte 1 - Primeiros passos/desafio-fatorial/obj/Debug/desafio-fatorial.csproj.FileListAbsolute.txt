@@ -1,0 +1,7 @@
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\bin\Debug\desafio-fatorial.exe.config
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\bin\Debug\desafio-fatorial.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\bin\Debug\desafio-fatorial.pdb
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\obj\Debug\desafio-fatorial.csproj.AssemblyReference.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\obj\Debug\desafio-fatorial.csproj.CoreCompileInputs.cache
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\obj\Debug\desafio-fatorial.exe
+C:\Users\casel\OneDrive\GitHub\csharp-exercises\desafio-fatorial\obj\Debug\desafio-fatorial.pdb

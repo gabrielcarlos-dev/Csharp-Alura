@@ -1,0 +1,7 @@
+C:\Users\casel\source\repos\atribuindo-variaveis\bin\Debug\atribuindo-variaveis.exe.config
+C:\Users\casel\source\repos\atribuindo-variaveis\bin\Debug\atribuindo-variaveis.exe
+C:\Users\casel\source\repos\atribuindo-variaveis\bin\Debug\atribuindo-variaveis.pdb
+C:\Users\casel\source\repos\atribuindo-variaveis\obj\Debug\atribuindo-variaveis.csproj.AssemblyReference.cache
+C:\Users\casel\source\repos\atribuindo-variaveis\obj\Debug\atribuindo-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\atribuindo-variaveis\obj\Debug\atribuindo-variaveis.exe
+C:\Users\casel\source\repos\atribuindo-variaveis\obj\Debug\atribuindo-variaveis.pdb

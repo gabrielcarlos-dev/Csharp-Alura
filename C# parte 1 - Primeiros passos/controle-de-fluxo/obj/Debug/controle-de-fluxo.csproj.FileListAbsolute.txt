@@ -1,0 +1,6 @@
+C:\Users\casel\source\repos\controle-de-fluxo\bin\Debug\controle-de-fluxo.exe.config
+C:\Users\casel\source\repos\controle-de-fluxo\bin\Debug\controle-de-fluxo.exe
+C:\Users\casel\source\repos\controle-de-fluxo\bin\Debug\controle-de-fluxo.pdb
+C:\Users\casel\source\repos\controle-de-fluxo\obj\Debug\controle-de-fluxo.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\controle-de-fluxo\obj\Debug\controle-de-fluxo.exe
+C:\Users\casel\source\repos\controle-de-fluxo\obj\Debug\controle-de-fluxo.pdb

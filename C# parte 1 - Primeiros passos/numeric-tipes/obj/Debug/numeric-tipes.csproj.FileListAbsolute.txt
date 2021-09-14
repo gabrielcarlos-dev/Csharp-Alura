@@ -1,0 +1,7 @@
+C:\Users\casel\source\repos\numeric-tipes\bin\Debug\numeric-tipes.exe.config
+C:\Users\casel\source\repos\numeric-tipes\bin\Debug\numeric-tipes.exe
+C:\Users\casel\source\repos\numeric-tipes\bin\Debug\numeric-tipes.pdb
+C:\Users\casel\source\repos\numeric-tipes\obj\Debug\numeric-tipes.csproj.AssemblyReference.cache
+C:\Users\casel\source\repos\numeric-tipes\obj\Debug\numeric-tipes.csproj.CoreCompileInputs.cache
+C:\Users\casel\source\repos\numeric-tipes\obj\Debug\numeric-tipes.exe
+C:\Users\casel\source\repos\numeric-tipes\obj\Debug\numeric-tipes.pdb
